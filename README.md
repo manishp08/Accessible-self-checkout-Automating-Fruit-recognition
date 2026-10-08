@@ -2,7 +2,7 @@
 
 One-sentence pitch: on-device fruit classification on a Raspberry Pi 3B+ to remove manual produce entry at self-checkout, aimed at making it more accessible.
 
-![demo](assets/pi_inference_output.jpg)
+![demo](assets/Image1.jpg)
 
 ## Overview
 Problem, approach, and what's implemented. Be clear that it's a course project (CEN/BMI 598, ASU).
